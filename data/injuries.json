@@ -1,0 +1,46 @@
+[
+  {
+    "playerId": 1,
+    "name": "Mike Allen",
+    "team": "BUF",
+    "position": "QB",
+    "injuryType": "Knee",
+    "riskRating": "High",
+    "gamesMissed": 5,
+    "expectedReturn": "Week 8",
+    "severity": "Moderate"
+  },
+  {
+    "playerId": 2,
+    "name": "Chase Johnson",
+    "team": "KC",
+    "position": "RB",
+    "injuryType": "Hamstring",
+    "riskRating": "Medium",
+    "gamesMissed": 2,
+    "expectedReturn": "Week 4",
+    "severity": "Minor"
+  },
+  {
+    "playerId": 3,
+    "name": "Tyler Brooks",
+    "team": "GB",
+    "position": "WR",
+    "injuryType": "Ankle",
+    "riskRating": "Low",
+    "gamesMissed": 1,
+    "expectedReturn": "Week 3",
+    "severity": "Minor"
+  },
+  {
+    "playerId": 4,
+    "name": "Kevin Martinez",
+    "team": "SEA",
+    "position": "WR",
+    "injuryType": "Shoulder",
+    "riskRating": "High",
+    "gamesMissed": 3,
+    "expectedReturn": "Week 6",
+    "severity": "Moderate"
+  }
+]

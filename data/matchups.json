@@ -1,0 +1,33 @@
+[
+  {
+    "id": 1,
+    "teamA": "Alpha Warriors",
+    "teamB": "Gridiron Crushers",
+    "playersPerformance": [
+      { "player": "QB Mike Allen", "team": "BUF", "points": 25, "status": "healthy", "slot": "starter" },
+      { "player": "RB Chase Johnson", "team": "KC", "points": 6, "status": "injured", "slot": "starter" },
+      { "player": "RB Darren Wright", "team": "DAL", "points": 19, "status": "healthy", "slot": "bench" },
+      { "player": "WR Tyler Brooks", "team": "GB", "points": 18, "status": "healthy", "slot": "starter" },
+      { "player": "WR Kevin Martinez", "team": "SEA", "points": 12, "status": "healthy", "slot": "bench" },
+      { "player": "TE Jason Clark", "team": "SF", "points": 8, "status": "healthy", "slot": "starter" }
+    ],
+    "result": "Alpha Warriors won",
+    "week": 1,
+    "finalScore": "128-115"
+  },
+  {
+    "id": 2,
+    "teamA": "Thunder Bolts",
+    "teamB": "Steel Curtain",
+    "playersPerformance": [
+      { "player": "QB Aaron Davis", "team": "TB", "points": 22, "status": "healthy", "slot": "starter" },
+      { "player": "RB Michael Torres", "team": "LAC", "points": 15, "status": "healthy", "slot": "starter" },
+      { "player": "RB James Wilson", "team": "ATL", "points": 24, "status": "healthy", "slot": "bench" },
+      { "player": "WR Chris Anderson", "team": "MIN", "points": 9, "status": "questionable", "slot": "starter" },
+      { "player": "WR Robert Taylor", "team": "CIN", "points": 16, "status": "healthy", "slot": "bench" }
+    ],
+    "result": "Steel Curtain won",
+    "week": 2,
+    "finalScore": "142-138"
+  }
+]

@@ -1,0 +1,34 @@
+[
+  {
+    "id": 1,
+    "player": "John Smith",
+    "position": "WR",
+    "team": "NYJ",
+    "rumor": "Possible trade to BUF",
+    "lastUpdated": "2025-08-26T12:30:00Z"
+  },
+  {
+    "id": 2,
+    "player": "Marcus Lee",
+    "position": "QB",
+    "team": "CHI",
+    "rumor": "Linked to DEN trade talks",
+    "lastUpdated": "2025-08-25T18:00:00Z"
+  },
+  {
+    "id": 3,
+    "player": "David Wilson",
+    "position": "RB",
+    "team": "MIA",
+    "rumor": "Contract extension talks stalled",
+    "lastUpdated": "2025-08-24T14:15:00Z"
+  },
+  {
+    "id": 4,
+    "player": "Alex Rodriguez",
+    "position": "TE",
+    "team": "LAR",
+    "rumor": "Interest from multiple teams",
+    "lastUpdated": "2025-08-23T09:45:00Z"
+  }
+]
